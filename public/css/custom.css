@@ -1,0 +1,13 @@
+body{
+  width: 400px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.flash{
+  color: red;
+}
+#new{
+  font-size: 30px;
+  margin: 0px 200px;
+}
